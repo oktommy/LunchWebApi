@@ -1,0 +1,11 @@
+C:\WorkSpace\Demo\LunchWebApi\bin\Debug\netcoreapp2.0\LunchWebApi.deps.json
+C:\WorkSpace\Demo\LunchWebApi\bin\Debug\netcoreapp2.0\LunchWebApi.runtimeconfig.json
+C:\WorkSpace\Demo\LunchWebApi\bin\Debug\netcoreapp2.0\LunchWebApi.runtimeconfig.dev.json
+C:\WorkSpace\Demo\LunchWebApi\bin\Debug\netcoreapp2.0\LunchWebApi.dll
+C:\WorkSpace\Demo\LunchWebApi\bin\Debug\netcoreapp2.0\LunchWebApi.pdb
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.csprojAssemblyReference.cache
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.AssemblyInfoInputs.cache
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.AssemblyInfo.cs
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.dll
+C:\WorkSpace\Demo\LunchWebApi\obj\Debug\netcoreapp2.0\LunchWebApi.pdb
